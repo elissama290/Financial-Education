@@ -2,19 +2,11 @@
 
 # 🤖 Projeto - NotebookLM | Educação Financeira
 
-### Building an AI-assisted learning workflow
-
-<img src="https://img.shields.io/badge/NotebookLM-Google-blue?style=for-the-badge&logo=google">
-<img src="https://img.shields.io/badge/Prompt%20Engineering-AI-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Study%20Guide-Completed-success?style=for-the-badge">
-
+Este projeto foi desenvolvido como parte da atividade de exploração do NotebookLM, utilizando Inteligência Artificial para organizar, resumir e aprofundar conhecimentos sobre Educação Financeira.
 ---
 
-### 🔗 Quick Access
+🔗 ![NotebookLM](https://img.shields.io/badge/NotebookLM-Google-blue)
 
-📓 **Notebook:**  
-https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43?pli=1
-![NotebookLM](https://img.shields.io/badge/NotebookLM-Google-blue)
 </div>
 ---
 
