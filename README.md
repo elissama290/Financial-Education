@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💰 NotebookLM • Educação Financeira
+# 📚 Projeto - NotebookLM | Educação Financeira
 
 ### 📚 Inteligência Artificial aplicada ao aprendizado de Educação Financeira
 
