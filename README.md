@@ -8,6 +8,8 @@ Este projeto foi desenvolvido como parte da atividade de exploração do Noteboo
 
 [NotebookLM](https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43?pli=1)
 
+[![Abrir NotebookLM](https://img.shields.io/badge/📒%20Abrir%20NotebookLM-4285F4?style=for-the-badge)](SEU_LINK)
+
 </div>
 
 # 🧭 Home
