@@ -18,12 +18,11 @@
 
 ---
 
-# 🧭 Navegação
+# 🧭 HOME
 
 - 🎯 Objetivos
 - 📚 Fontes
 - 🧠 Engenharia de Prompts
-- ⚠️ Troubleshooting
 - 🎧 Recursos do NotebookLM
 - 📖 Miniguia
 - 💬 Prompts reutilizáveis
@@ -247,7 +246,9 @@ Ela resume os conceitos de:
 - Reserva de Emergência
 - Consumo Consciente
 
+
 📎 **Visualizar Slides**
+🔗 [NotebookLM](https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43/artifact/46c53149-1f0d-447c-83c0-d5a2324a60f3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 🔗 https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43/artifact/46c53149-1f0d-447c-83c0-d5a2324a60f3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 ---
@@ -339,8 +340,7 @@ Explique este conceito para um estudante universitário.
 ---
 
 # 👨‍💻 Autor
-
-## Camilli Marques da Silva
+Camilli Marques da Silva
 
 🎓 Ciência da Computação
 
