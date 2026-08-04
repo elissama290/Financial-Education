@@ -61,11 +61,11 @@ Todos os documentos utilizados foram carregados no NotebookLM.
 
 | 📄 Fonte | Tipo |
 |---------|------|
-| Aula de Educação Financeira | YouTube (https://www.youtube.com/watch?v=VLypOc9mdX8) |
-| Planejamento Financeiro Fácil | YouTube |
-| Regra dos 3 Fatores | YouTube |
-| Educação Financeira Ilustrada | YouTube |
-| SPC Brasil | Artigo |
+| Aula de Educação Financeira | [YouTube](https://www.youtube.com/watch?v=VLypOc9mdX8)|
+| Planejamento Financeiro Fácil | [YouTube](https://www.youtube.com/watch?v=in0XbfQEm2A)|
+| Regra dos 3 Fatores | [YouTube](https://www.youtube.com/watch?v=HSXcvFVtsdM)|
+| Educação Financeira Ilustrada | [YouTube](https://www.youtube.com/watch?v=CB5zuxQl5ro)|
+| SPC Brasil | [Site]([https://www.youtube.com/watch?v=VLypOc9mdX8](https://www.spcbrasil.com.br/blog/educacao-financeira ))|
 
 ---
 
@@ -230,7 +230,7 @@ Ao realizar essa gestão e administração consciente todos os meses, você evit
 
 📎 **Ouvir Podcast**
 
-🔗 https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43/artifact/e2ff292e-a199-428e-9c5f-5473b767fd87?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+🔗 [Áudio]( https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43/artifact/e2ff292e-a199-428e-9c5f-5473b767fd87?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 
 ---
 
@@ -246,10 +246,9 @@ Ela resume os conceitos de:
 - Reserva de Emergência
 - Consumo Consciente
 
-
 📎 **Visualizar Slides**
-🔗 [NotebookLM](https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43/artifact/46c53149-1f0d-447c-83c0-d5a2324a60f3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
-🔗 https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43/artifact/46c53149-1f0d-447c-83c0-d5a2324a60f3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+
+🔗 [O jogo do dinheiro](https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43/artifact/46c53149-1f0d-447c-83c0-d5a2324a60f3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 
 ---
 
