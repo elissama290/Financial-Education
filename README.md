@@ -1,18 +1,23 @@
 <div align="center">
 
-# 📚 NotebookLM • Financial Education
+# 💰 Financial Education with NotebookLM
 
-### 💡 AI-powered learning experience
+### 📚 Exploring Artificial Intelligence to build a smarter way of learning Financial Education
 
-| 🚀 Project | 🔗 Access |
-|------------|-----------|
-| NotebookLM Workspace | [Open Notebook](https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43?pli=1) |
-| Study Guide | 📖 Available below |
-| AI Resources | 🎧 Podcast • 📽️ Slides • 📝 Summaries |
+<p>
+  <a href="https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43?pli=1">
+    <img src="https://img.shields.io/badge/Open-NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  </a>
+</p>
+
+![NotebookLM](https://img.shields.io/badge/NotebookLM-Google-blue)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-Generative-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
 
-*"Learning isn't about reading more documents. It's about transforming information into knowledge."*
+> **From multiple sources to a complete study guide.**  
+> This project explores how NotebookLM can transform documents into summaries, podcasts, presentations and structured study materials through prompt engineering.
 
 </div>
 ---
