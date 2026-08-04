@@ -3,6 +3,8 @@
 # 📚 Project - NotebookLM | Financial Education
 
 ### Inteligência Artificial aplicada ao aprendizado de Educação Financeira
+| Notebook Gerado | [Link](https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43?pli=1)|
+
 ---
 
 *"Transformando documentos em conhecimento através da IA."*
