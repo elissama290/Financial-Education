@@ -1,7 +1,10 @@
 # 📚 Projeto - NotebookLM | Educação Financeira
 ## 📖 Sobre o Projeto
+<p align="center">
 
 Este projeto foi desenvolvido como parte da atividade de exploração do NotebookLM, utilizando Inteligência Artificial para organizar, resumir e aprofundar conhecimentos sobre Educação Financeira.
+
+</p>
 ---------------------------------------------------------------------------------------------------------------------------------
 
 # 🎯 Objetivos
