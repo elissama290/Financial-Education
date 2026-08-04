@@ -1,24 +1,20 @@
 <div align="center">
 
-# 💰 Financial Education with NotebookLM
+# 🤖 Projeto - NotebookLM | Educação Financeira
 
-### 📚 Exploring Artificial Intelligence to build a smarter way of learning Financial Education
+### Building an AI-assisted learning workflow
 
-<p>
-  <a href="https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43?pli=1">
-    <img src="https://img.shields.io/badge/Open-NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white">
-  </a>
-</p>
-
-![NotebookLM](https://img.shields.io/badge/NotebookLM-Google-blue)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-Generative-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+<img src="https://img.shields.io/badge/NotebookLM-Google-blue?style=for-the-badge&logo=google">
+<img src="https://img.shields.io/badge/Prompt%20Engineering-AI-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Study%20Guide-Completed-success?style=for-the-badge">
 
 ---
 
-> **From multiple sources to a complete study guide.**  
-> This project explores how NotebookLM can transform documents into summaries, podcasts, presentations and structured study materials through prompt engineering.
+### 🔗 Quick Access
 
+📓 **Notebook:**  
+https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43?pli=1
+![NotebookLM](https://img.shields.io/badge/NotebookLM-Google-blue)
 </div>
 ---
 
