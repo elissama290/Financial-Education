@@ -1,33 +1,18 @@
 <div align="center">
 
-# 🤖 NotebookLM × Financial Education
+# 📚 NotebookLM • Financial Education
 
-### Building an AI-assisted learning workflow
+### 💡 AI-powered learning experience
 
-<img src="https://img.shields.io/badge/NotebookLM-Google-blue?style=for-the-badge&logo=google">
-<img src="https://img.shields.io/badge/Prompt%20Engineering-AI-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Study%20Guide-Completed-success?style=for-the-badge">
-
----
-
-### 🔗 Quick Access
-
-📓 **Notebook:**  
-https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43?pli=1
+| 🚀 Project | 🔗 Access |
+|------------|-----------|
+| NotebookLM Workspace | [Open Notebook](https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43?pli=1) |
+| Study Guide | 📖 Available below |
+| AI Resources | 🎧 Podcast • 📽️ Slides • 📝 Summaries |
 
 ---
 
-### 🎯 What you'll find
-
-📚 Curated sources
-
-🧠 Prompt engineering experiments
-
-🎧 AI-generated podcast
-
-📽️ AI-generated presentation
-
-📖 Final study guide
+*"Learning isn't about reading more documents. It's about transforming information into knowledge."*
 
 </div>
 ---
