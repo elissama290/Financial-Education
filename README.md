@@ -3,9 +3,8 @@
 # 🤖 Projeto - NotebookLM | Educação Financeira
 
 Este projeto foi desenvolvido como parte da atividade de exploração do NotebookLM, utilizando Inteligência Artificial para organizar, resumir e aprofundar conhecimentos sobre Educação Financeira.
----
 
-🔗 ![NotebookLM](https://img.shields.io/badge/NotebookLM-Google-blue)
+🔗 [NotebookLM](https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43?pli=1)
 
 </div>
 ---
