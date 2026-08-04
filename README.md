@@ -20,9 +20,13 @@ O objetivo foi avaliar como o NotebookLM pode auxiliar na aprendizagem, sintetiz
 # 📂 Fontes Utilizadas:
 
 | AULA DE EDUCAÇÃO FINANCEIRA | https://www.youtube.com/watch?v=VLypOc9mdX8 |
+
 | COMO ORGANIZAR SUAS FINANÇAS E GUARDAR DINHEIRO - Planejamento financeiro FÁCIL  | https://www.youtube.com/watch?v=in0XbfQEm2A |
+
 | Educação Financeira Básica: A REGRA DOS 3 FATORES | https://www.youtube.com/watch?v=HSXcvFVtsdM |
+
 | O Que É Educação Financeira? Como Usar o Dinheiro? - Educação Financeira Ilustrada | https://www.youtube.com/watch?v=CB5zuxQl5ro |
+
 | Educação financeira: tudo o que você precisa saber para dar o primeiro passo | https://www.spcbrasil.com.br/blog/educacao-financeira |
 
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -174,8 +178,8 @@ O NotebookLM gerou automaticamente um resumo em formato de podcast.
 - Reforçar os conceitos aprendidos em formato de uma conversa com o tema 'Como parar de viver para pagar boletos'.
 
 
-🔊 **Ouvir o áudio:** [resumo.mp3](assets/audio/resumo.mp3)
-Link> https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43/artifact/e2ff292e-a199-428e-9c5f-5473b767fd87?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+🔊 **Ouvir o áudio:**
+https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43/artifact/e2ff292e-a199-428e-9c5f-5473b767fd87?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 
 ## 📽️ Apresentação de Slides
@@ -191,8 +195,8 @@ Ela resume os conceitos de:
 - Reserva de Emergência
 - Consumo Consciente
 
-📑 **Abrir apresentação:** [slides.pdf](assets/slides/slides.pdf)
-Link>  https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43/artifact/46c53149-1f0d-447c-83c0-d5a2324a60f3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
+📑 **Abrir apresentação:** 
+https://notebook.google.com/notebook/912a8029-8c49-45b7-9b9a-8122f2c37f43/artifact/46c53149-1f0d-447c-83c0-d5a2324a60f3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_
 
 ---------------------------------------------------------------------------------------------------------------------------------
 # 💬 Prompts Reutilizáveis:
