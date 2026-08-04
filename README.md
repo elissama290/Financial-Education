@@ -3,11 +3,6 @@
 # 📚 Projeto - NotebookLM | Educação Financeira
 
 ### Inteligência Artificial aplicada ao aprendizado de Educação Financeira
-
-![NotebookLM](https://img.shields.io/badge/NotebookLM-Google-blue)
-![Markdown](https://img.shields.io/badge/Markdown-README-success)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
-
 ---
 
 *"Transformando documentos em conhecimento através da IA."*
